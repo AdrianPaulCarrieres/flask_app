@@ -11,10 +11,10 @@ labels:
 spec:
     containers:
         - name: python
-          image: python:latest
-          command: 
+        - image: python:latest
+        - command: 
             - cat
-        tty: true
+        - tty: true
 """
         }
     }
