@@ -1,0 +1,7 @@
+Click==8.0
+Flask==2.2.2
+itsdangerous==2.0
+Jinja2==3.0
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
+xmlrunner==1.7.7
