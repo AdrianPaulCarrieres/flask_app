@@ -1,7 +1,7 @@
 pipeline {
     agent {
         kubernetes {
-            //label 'jenkins-agent-my-app'
+            label 'Jenkins'
             yaml """
 apiVersion: v1
 kind: Pod
